@@ -11,6 +11,8 @@ Explain the problem statement.
 Include the steps involved in the Q Learning algorithm
 
 ## Q LEARNING FUNCTION
+### Name:
+### Register Number:
 Include the Q Learning function
 
 ## OUTPUT:
